@@ -1,1 +1,1 @@
-//Parcurgerea sirului numind bula prin index main
+//Parcurgerea sirului de la ultima bula catre prima
